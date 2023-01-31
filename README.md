@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<button style="background:red">Green</button>
+<button style="background-color: #4CAF50;">Green</button>
 <button class="button button2">Blue</button>
 
 </body>
